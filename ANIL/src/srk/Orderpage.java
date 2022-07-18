@@ -1,0 +1,10 @@
+package srk;
+
+public class Orderpage {
+	public static void main(String args[])
+	{
+		System.out.println("HELLO BHAU");
+	}
+			
+
+}
